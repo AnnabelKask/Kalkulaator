@@ -1,0 +1,30 @@
+body{
+    padding: 30px;
+    background-color: bisque;
+}
+
+h1{
+    padding-bottom: 40px;
+}
+
+.pealkiri{
+    padding: 20px;
+    border-radius: 2rem;
+    background-color: brown;
+}
+header{
+    padding-bottom: 20px;
+    color: rgb(238, 98, 226);
+    
+}
+
+main{
+   border-radius: 2rem;
+   padding: 30px;
+   color: rgb(10, 38, 37);
+  font-family: ;
+}
+
+*{
+    background-color: bisque;
+}
